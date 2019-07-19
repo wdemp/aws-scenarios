@@ -1,5 +1,4 @@
-
-  ```
+```bash
   sudo yum install python36
   
 
